@@ -1,1 +1,1 @@
-This is my Rosalind Solutions Repo.
+This is my Rosalind Python Village Solutions Repo.
