@@ -8,4 +8,3 @@ for c in s:
 st = ''.join(l)
 print st
 
-""" How do I add the result into a new string which I can then reverse?"""
